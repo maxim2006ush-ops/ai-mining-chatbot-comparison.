@@ -36,4 +36,4 @@
 - файлы с **ChatGPT** или **ChatGpt** — ответы ChatGPT
 - файлы с **ГигаЧат** или **GigaChat** — ответы GigaChat
 - Сравнительный анализ и выводы: [analysis/comparative_analysis.md](analysis/comparative_analysis.md)
-- Ссылка на репозиторий: 
+- Ссылка на репозиторий: https://github.com/maxim2006ush-ops/ai-mining-chatbot-comparison./blob/main/README.md
